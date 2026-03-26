@@ -1,0 +1,19 @@
+{
+  "cli_version": "0.5.1",
+  "checkpoint_id": "9199d4cea249",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "bootstrap/app.php",
+    "routes/api.php"
+  ],
+  "sessions": [
+    {
+      "metadata": "/91/99d4cea249/0/metadata.json",
+      "transcript": "/91/99d4cea249/0/full.jsonl",
+      "content_hash": "/91/99d4cea249/0/content_hash.txt",
+      "prompt": "/91/99d4cea249/0/prompt.txt"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+add a simple api endpoint to return artisan inspire commands content
