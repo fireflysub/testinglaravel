@@ -8,3 +8,9 @@ Route::get('/inspire', function () {
         'quote' => Inspiring::quote(),
     ]);
 });
+
+Route::get('/', function () {
+    return response()->json([
+        'message' => 'Hello World',
+    ]);
+});
